@@ -1,2 +1,3 @@
 # hello-biz
- This project is of no practical significance
+你好，我是张平
+当前这行，最后修改的分支为BrandB
